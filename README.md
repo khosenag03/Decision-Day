@@ -2,14 +2,17 @@
 
 
 What this project is about and what it aims to accomplish?
+
 This project will analyze and compare the starting salaries of students with the same major; comparing earnings of those who attended college institutions with higher tuition rates vs. those who attended college institutions with lower tuition rates.
 
 
 Explain the problem that the project addresses specifically.
+
 This project will discredit the perception that higher tuition rates result in higher salaries.
 
 
 What evidence is there to support the need for this project?
+
 Based upon analysis of historical salary outcome data, attending institutions with higher tuition rates does not evaluate to higher earnings when compared to graduates who attend more economical institutions with the same major.
 
 Research Questions to Answer:
