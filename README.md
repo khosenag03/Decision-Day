@@ -1,4 +1,4 @@
-**"Decision Day" Project Proposal**
+**"Decision Day" Project**
 
 ** **
 
