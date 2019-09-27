@@ -1,26 +1,8 @@
-**"Decision Day" Project**
+**The True Meaning behind "Decision Day!"**
 
-** **
+Nikita Jones
 
-**1.** 	**Project Title:**
-
-**a.** 	The True Meaning behind "Decision Day!"
-
-** **
-
-**2.** 	**Team Members:**
-
-**a.** 	Edward Gates Jr.
-
-**b.** 	Philip Nunoo
-
-**c.**  	Nikita Jones
-
-**d.** 	Mason Waters
-
-** **
-
-**3.** 	**Project Description Outline:**
+**Project Description Outline:**
 
 ** **
 
@@ -45,41 +27,49 @@ Based upon analysis of historical salary outcome data, attending institutions wi
 
  
 
-**4.** 	**Research Questions to Answer:**
+**Research Questions Answered:**
 
-1. Does it pay more to attend a Party School or an Ivy League school?
+* Does it pay more to attend a Party School or an Ivy League school?
 
-    1. What classifies a Party School?
+    * What classifies a Party School?
 
-    2. What classifies an Ivy League school?
+    * What classifies an Ivy League school?
 
-    3. What schools have two or more classifications?
+    * What schools have two or more classifications?
 
-    4. What is the average starting salary of Ivy League schools?
+    * What is the average starting salary of Ivy League schools?
 
-    5. What is the average starting salary of Party schools?Does region matter in relation to starting median salary/mid-career median salary?
+    * What is the average starting salary of Party schools?Does region matter in relation to starting median salary/mid-career median salary?
 
-2. Does region matter in relation to starting salary/mid-career salary/late-career salary?
+* Does region matter in relation to starting salary/mid-career salary/late-career salary?
 
-    6. What are the mean salaries for each region?
+    * What are the mean salaries for each region?
 
-    7. Which region has the highest starting/mid/late-career salary?
+    * Which region has the highest starting/mid/late-career salary?
 
-    8. Which region has the lowest starting/mid/late-career salary?
+    * Which region has the lowest starting/mid/late-career salary?
 
-3. Which degree majors have higher than average income growth?
+* Which degree majors have higher than average income growth?
 
-    9. What are the data outliers?
+    * What are the data outliers?
 
-    10. What major has highest income growth?
+    * What major has highest income growth?
 
-    11. What major has the lowest income growth?
+    * What major has the lowest income growth?
 
-4. T-Test (Statistical Analysis)
+* Statistical Testing
+
+    * T-Test
+
+        * What is the statistical significance of starting salaries between top two highest earning regions?
+
+    * Anova-Test
+
+        * What is the statistical significance of starting salaries between the bottom three regions?
 
 		 
 
-**5.** 	**Data Sets to be Used:**
+**Data Sets Used:**
 
 ** **
 
@@ -105,25 +95,21 @@ All data was obtained from the Wall Street Journal based on data from Payscale, 
 
  
 
-**6.** 	**Rough Breakdown of Tasks:**
+**Tasks:**
 
-a.     Nikita Jones
+* **Create Repository**
 
-             	  i.Create Repository
+* **Analyze**
 
-	Ii. Salary Increase By Major
+    1. **Salary Increase by Major**
 
-b.     Edward Gates Jr.
+    2. **Salary by Region**
 
-                        i. Salary by Region 
+    3. **Salary increase by College Type (Engineering, Party, State, Liberal Arts, Ivy League)**
 
-c.      Mason Waters
+* **Party school statistical tests (Anova Test)** 
 
-                         i. Salary Increase by College Type
-
-d.     Philip Nunoo
-
-                           i. Party school analysis/Statistical tests 
+![image alt text](image_0.png)
 
 "Decision Day" Project Proposal.md
 Displaying "Decision Day" Project Proposal.md.
